@@ -1,6 +1,6 @@
 # 🍭🍫 &nbsp; Museum of Candy &nbsp; 🍫🍭 
 
-This responsive front end project serves as a website for a fictional popup museum. was created for Colt Steele's Web Developer Bootcamp course on Udemy, using Reactjs, Tailwind CSS, and npm packages. Though Colt Steele used Bootstrap, I wanted to challenge myself to utilize Reactjs and learn Tailwind CSS. 
+This responsive front end project serves as a website for a fictional popup museum. It was created for Colt Steele's Web Developer Bootcamp course on Udemy, using Reactjs, Tailwind CSS, and npm packages. Though Colt Steele used Bootstrap, I wanted to challenge myself to utilize Reactjs and learn Tailwind CSS. 
 
 Check out the *sweet* demo here 👇
 
