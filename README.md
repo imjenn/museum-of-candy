@@ -3,6 +3,9 @@
 This responsive front end project serves as a website for a fictional popup museum. was created for Colt Steele's Web Developer Bootcamp course on Udemy, using Reactjs, Tailwind CSS, and npm packages. Though Colt Steele used Bootstrap, I wanted to challenge myself to utilize Reactjs and learn Tailwind CSS. 
 
 
+https://user-images.githubusercontent.com/90587567/149122832-faeee257-ca31-46f8-8d4c-e84e6588ce76.mp4
+
+
 <br/>
 
 ## Getting Started with Create React App
